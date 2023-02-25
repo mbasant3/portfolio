@@ -1,0 +1,31 @@
+.insta,
+.github,
+.linkedin,
+.website {
+  font-size: 40px;
+  /* color: #fff;  */
+  /* margin: 0px 10px;  */
+  line-height: 100px;
+  display: inline-block;
+  width: 80px;
+  height: 100px;
+  /* background: #B71C1C */
+  -webkit-transition: all 0.6s ease;
+  -moz-transition: all 0.6s ease;
+  -ms-transition: all 0.6s ease;
+  -o-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+}
+.insta:hover,
+.github:hover,
+.linkedin:hover,
+.website:hover {
+  border-radius: 50%;
+  /* background: #b71c1c; */
+  -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  transform: rotate(360deg);
+  /* title; */
+}

@@ -1,2 +1,2 @@
-# portfolio
+# zeroslope-react
 Created with CodeSandbox
